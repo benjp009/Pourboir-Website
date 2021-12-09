@@ -9,9 +9,9 @@ The live version of the webpage is here [Pourboir](https://pourboir.com)
 The website is in 2 languages and is mobile friendly. 
 
 #### The homepage
-![Homepage](/ressources/Screenshot1)
+![Homepage](/ressources/Screenshot1.png)
 
 ##### More screenshots
-![Screenshots](/ressources/Screenshot2)
-![Screenshots](/ressources/Screenshot3)
+![Screenshots](/ressources/Screenshot2.png)
+![Screenshots](/ressources/Screenshot3.png)
 
